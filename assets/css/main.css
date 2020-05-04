@@ -4356,6 +4356,7 @@ body.is-preload .wrapper .inner .textwrap {
 		opacity: 1;	
 		border-bottom-style: solid;
 		border-bottom-color: white;
+		border-bottom-width: 10px;
 	}
 
 	body.is-preload #header {
