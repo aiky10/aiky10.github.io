@@ -4218,27 +4218,27 @@ body.is-preload .wrapper .inner .textwrap {
 						}
 	
 				.tiles article.style1 > .image:before {
-					background-color: #534e50;
+					background-color: #1b1b1b;
 				}
 	
 				.tiles article.style2 > .image:before {
-					background-color: #534e50;
+					background-color: #1b1b1b;
 				}
 	
 				.tiles article.style3 > .image:before {
-					background-color: #534e50;
+					background-color: #1b1b1b;
 				}
 	
 				.tiles article.style4 > .image:before {
-					background-color: #534e50;
+					background-color: #1b1b1b;
 				}
 	
 				.tiles article.style5 > .image:before {
-					background-color: #534e50;
+					background-color: #1b1b1b;
 				}
 	
 				.tiles article.style6 > .image:before {
-					background-color: #534e50;
+					background-color: #1b1b1b;
 				}
 	
 				body:not(.is-touch) .tiles article:hover > .image {
