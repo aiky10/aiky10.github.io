@@ -4179,6 +4179,8 @@ body.is-preload .wrapper .inner .textwrap {
 					text-align: center;
 					text-decoration: none;
 					z-index: 3;
+					border-width: 1px;
+					border-style: solid;
 				}
 	
 					.tiles article > a > :last-child {
