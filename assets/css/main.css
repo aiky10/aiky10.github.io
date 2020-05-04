@@ -4354,6 +4354,8 @@ body.is-preload .wrapper .inner .textwrap {
 		-ms-transition: opacity 0.15s ease, -ms-transform 0.75s ease;
 		transition: opacity 0.15s ease, transform 0.75s ease;
 		opacity: 1;	
+		border-bottom-style: solid;
+		border-bottom-color: white;
 	}
 
 	body.is-preload #header {
