@@ -4120,9 +4120,9 @@ body.is-preload .wrapper .inner .textwrap {
 						left: 0;
 						width: 100%;
 						height: 100%;
-						opacity: 0;
+						opacity: 1;
 						z-index: 1;
-						opacity: 0.8;
+						opacity: 0.5;
 					}
 	
 					.tiles article > .image:after {
