@@ -4213,27 +4213,27 @@ body.is-preload .wrapper .inner .textwrap {
 						}
 	
 				.tiles article.style1 > .image:before {
-					background-color: #1b1b1b;
+					background-color: white;
 				}
 	
 				.tiles article.style2 > .image:before {
-					background-color: #1b1b1b;
+					background-color: white;
 				}
 	
 				.tiles article.style3 > .image:before {
-					background-color: #1b1b1b;
+					background-color: white;
 				}
 	
 				.tiles article.style4 > .image:before {
-					background-color: #1b1b1b;
+					background-color: white;
 				}
 	
 				.tiles article.style5 > .image:before {
-					background-color: #1b1b1b;
+					background-color: white;
 				}
 	
 				.tiles article.style6 > .image:before {
-					background-color: #1b1b1b;
+					background-color: white;
 				}
 	
 				body:not(.is-touch) .tiles article:hover > .image {
