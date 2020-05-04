@@ -4189,6 +4189,11 @@ body.is-preload .wrapper .inner .textwrap {
 	
 					.tiles article > a:hover {
 						color: #ffffff !important;
+						-moz-transition: -moz-transform 0.5s ease;
+						-webkit-transition: -webkit-transform 0.5s ease;
+						-ms-transition: -ms-transform 0.5s ease;
+						transition: transform 0.5s ease;
+						transform: scale(1.05);
 					}
 	
 					.tiles article > a h2 {
