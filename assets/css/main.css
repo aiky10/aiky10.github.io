@@ -4189,11 +4189,6 @@ body.is-preload .wrapper .inner .textwrap {
 	
 					.tiles article > a:hover {
 						color: #ffffff !important;
-						-moz-transition: -moz-transform 0.5s ease;
-						-webkit-transition: -webkit-transform 0.5s ease;
-						-ms-transition: -ms-transform 0.5s ease;
-						transition: transform 0.5s ease;
-						transform: scale(1.05);
 					}
 	
 					.tiles article > a h2 {
@@ -4210,6 +4205,7 @@ body.is-preload .wrapper .inner .textwrap {
 						line-height: 1.5;
 						margin-top: 0.35em;
 						opacity: 1;
+						border: 100%;
 					}
 	
 						.tiles article > a .content > :last-child {
