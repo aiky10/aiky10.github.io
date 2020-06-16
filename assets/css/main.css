@@ -533,6 +533,7 @@ input, select, textarea {
 
 	p.generic {
 		color: white;
+		text-align: justify;
 	}
 	p.contact {
 		color: white !important;
@@ -616,7 +617,7 @@ input, select, textarea {
 				height: 0.075em;
 				position: absolute;
 				right: 0;
-				width: %;
+				
 				
 			}
 
@@ -4131,7 +4132,7 @@ body.is-preload .wrapper .inner .textwrap {
 						-webkit-transition: opacity 0.5s ease;
 						-ms-transition: opacity 0.5s ease;
 						transition: opacity 0.5s ease;
-						content: '';
+						
 						display: block;
 						position: absolute;
 						top: 0;
